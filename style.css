@@ -1,0 +1,144 @@
+body {
+	background: url("breaking-bad.jpg") no-repeat center fixed;
+	background-size: cover;
+}
+.me {
+	position: relative;
+	border-radius: 5px;
+}
+.me:hover {
+	cursor: url(cursor.gif), auto;
+	font-weight: bold;
+	transform:rotate(180deg);
+}
+h3 {
+	color: #339966;
+	font-size: 16px;
+	font-family: sans-serif;
+	background-color: rgba(0,0,0,0.5);
+	width: 11%;
+	padding: 5px;
+}
+.logo {
+	box-shadow: 2px 2px 2px #595959;
+	border-radius: 5px;
+	width: 53%;
+	background-color: rgba(0,0,0,0.5);
+	margin: 0 auto;
+	margin-top: 40px;
+}
+div {
+	box-shadow: 2px 2px 2px #595959;
+	background-color: white;
+	height: 100%;
+	width: 50%;
+	margin: 0 auto;
+	padding: 20px;
+	border-radius: 2px;
+	opacity: 0.9;
+}
+.bad {
+	text-shadow: 2px 2px 2px #000000;
+	font-weight: bold;
+	font-size: 2em;
+	font-family: Georgia;
+	text-align: center;
+	color: white;
+	margin-left: 108px;
+	padding-top: -7px;
+
+}
+.breaking {
+	text-shadow: 2px 2px 2px #000000;
+	font-weight: bold;
+	font-size: 2em;
+	font-family: Georgia;
+	text-align: center;
+	color: white;
+
+}
+span {
+	font-weight: bold;
+	font-family: Helvetica;
+	padding: 10px;
+	color: white;
+	font-size: 2em;
+	border: 1px solid white;
+	background-color: #339966;
+}
+h1  {
+	font-size: 2em;
+	font-family: Times;
+	text-align: center;
+	color: white;
+}
+h2 {
+	color: #595959;
+	font-family: Helvetica;
+}
+.random {
+	float:left;
+	width: 20%;
+	height: 100%;
+}
+h4 {
+	color: #595959;
+	font-family: Helvetica;
+}
+p  {
+	text-align: justify;
+	color: #737373;
+	font-size: 14px;
+	font-family: sans-serif;
+	padding: 10px;
+}
+ol {
+	list-style: none;
+	color: #737373;
+	font-size: 14px;
+	font-family: sans-serif;
+}
+img {
+	box-shadow: 2px 2px 2px #595959;
+	height: 60%;
+	width: 70%;
+}
+table {
+	box-shadow: 0 0 5px #595959;
+	font-family: sans-serif;
+	color: #737373;
+	border-collapse: collapse;
+	overflow: scroll;
+}
+th, td {
+	box-shadow: 0 0 2px #595959;
+	text-align: left;
+	border: 1px solid #C6C6C6;
+	padding: 8px;
+}
+footer h1 {
+	color: #595959;
+	font-family: sans-serif; 
+}
+footer {
+	opacity: 0.9;
+	box-shadow: 2px 2px 2px #595959;
+	font-family: Helvetica;
+	border-radius: 2px;
+	width: 53%;
+	background-color: #287b51;
+	margin: 0 auto;
+	color: #595959;
+	text-align: center;
+}
+a:hover {
+	cursor: url(cursor.gif), auto;
+	font-weight: bold;
+}
+a {
+	text-decoration: none;
+	color: #339966;
+}
+th{
+	background-color: #d9d9d9;
+}
